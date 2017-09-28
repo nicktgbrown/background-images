@@ -329,7 +329,6 @@ svg.img-flex {
   width: 1px;
   border: 0;
   clip: rect(0 0 0 0);
-  clip-path: inset(50%);
 }
 
 .visually-hidden.focusable:active, .visually-hidden.focusable:focus {
